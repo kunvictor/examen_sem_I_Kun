@@ -10,4 +10,4 @@ Entitati:
 4.	Stoc, produse
 5.	Furnizori,date_furnizori
 
-![Alt text](Untitled Diagram.drawio.png)
+![Alt text](diagrame.png)
