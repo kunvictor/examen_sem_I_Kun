@@ -9,3 +9,5 @@ Entitati:
 3.	Vanzari,client,date_client
 4.	Stoc, produse
 5.	Furnizori,date_furnizori
+
+![Alt text](diagrame.png)
