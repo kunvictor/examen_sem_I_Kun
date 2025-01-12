@@ -1,6 +1,7 @@
 ENUNT PROIECT 
 
 Exista o retea de supermarketuri care doreste sa isi mapeze locatiile si ulterior sa se extinda in zone neacoperite conform planurilor de manegment. Odata cu maparea supermaketurilor existente se doreste si implementarea unui sistem de urmarire a vanzarilor, a stocurilor existente dar si a necesarului de aprovizionare si comunicare directa cu furnizorii.
+<<<<<<< HEAD
 
 Entitati:
 1.	Tara, judet, UAT
@@ -8,3 +9,5 @@ Entitati:
 3.	Vanzari,client,date_client
 4.	Stoc, produse
 5.	Furnizori,date_furnizori
+=======
+>>>>>>> 77b21da097ad0b223f581b9adebbd53d9885dd05
