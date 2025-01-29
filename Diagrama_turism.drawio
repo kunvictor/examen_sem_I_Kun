@@ -1,73 +1,73 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.10">
   <diagram name="Page-1" id="fBTjOKKP6La7UhOc9eeN">
-    <mxGraphModel dx="1461" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1719" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QnurLI0ZLrYXKgAfgdb3-1" value="Pașaport" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="xxcRfOg85MAnlj5nTLF1-1" value="Turist" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="920" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QnurLI0ZLrYXKgAfgdb3-2" value="Turiști" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="xxcRfOg85MAnlj5nTLF1-2" value="Pașaport" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="920" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QnurLI0ZLrYXKgAfgdb3-3" value="Vizite" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="290" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QnurLI0ZLrYXKgAfgdb3-4" value="Trasee turistice" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="290" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QnurLI0ZLrYXKgAfgdb3-5" value="Destinații" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="827" y="290" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QnurLI0ZLrYXKgAfgdb3-6" value="Hoteluri" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="120" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QnurLI0ZLrYXKgAfgdb3-7" value="Evenimente" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="290" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QnurLI0ZLrYXKgAfgdb3-8" value="Resurse naturale" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="440" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QnurLI0ZLrYXKgAfgdb3-9" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QnurLI0ZLrYXKgAfgdb3-1" target="QnurLI0ZLrYXKgAfgdb3-2">
+        <mxCell id="xxcRfOg85MAnlj5nTLF1-3" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xxcRfOg85MAnlj5nTLF1-1" target="xxcRfOg85MAnlj5nTLF1-2">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="550" y="390" as="sourcePoint" />
-            <mxPoint x="650" y="290" as="targetPoint" />
+            <mxPoint x="420" y="660" as="sourcePoint" />
+            <mxPoint x="520" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QnurLI0ZLrYXKgAfgdb3-10" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmany;startArrow=ERmany;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QnurLI0ZLrYXKgAfgdb3-2" target="QnurLI0ZLrYXKgAfgdb3-3">
+        <mxCell id="xxcRfOg85MAnlj5nTLF1-4" value="Trasee turistice" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxcRfOg85MAnlj5nTLF1-5" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Vizite&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="120" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxcRfOg85MAnlj5nTLF1-6" value="" style="fontSize=12;html=1;endArrow=ERmany;startArrow=ERmany;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xxcRfOg85MAnlj5nTLF1-1" target="xxcRfOg85MAnlj5nTLF1-5">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="550" y="390" as="sourcePoint" />
-            <mxPoint x="650" y="290" as="targetPoint" />
+            <mxPoint x="740" y="790" as="sourcePoint" />
+            <mxPoint x="840" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QnurLI0ZLrYXKgAfgdb3-11" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmany;startArrow=ERmany;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QnurLI0ZLrYXKgAfgdb3-3" target="QnurLI0ZLrYXKgAfgdb3-4">
+        <mxCell id="xxcRfOg85MAnlj5nTLF1-7" value="" style="fontSize=12;html=1;endArrow=ERmany;startArrow=ERmany;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xxcRfOg85MAnlj5nTLF1-5" target="xxcRfOg85MAnlj5nTLF1-4">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="550" y="390" as="sourcePoint" />
-            <mxPoint x="650" y="290" as="targetPoint" />
+            <mxPoint x="371" y="1000" as="sourcePoint" />
+            <mxPoint x="380" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QnurLI0ZLrYXKgAfgdb3-12" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QnurLI0ZLrYXKgAfgdb3-4" target="QnurLI0ZLrYXKgAfgdb3-5">
+        <mxCell id="xxcRfOg85MAnlj5nTLF1-8" value="Destinații" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxcRfOg85MAnlj5nTLF1-9" value="Hoteluri" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="869" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxcRfOg85MAnlj5nTLF1-10" value="Evenimente" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="869" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxcRfOg85MAnlj5nTLF1-11" value="Resurse naturale" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="869" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xxcRfOg85MAnlj5nTLF1-12" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xxcRfOg85MAnlj5nTLF1-8" target="xxcRfOg85MAnlj5nTLF1-10">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="550" y="390" as="sourcePoint" />
-            <mxPoint x="650" y="290" as="targetPoint" />
+            <mxPoint x="750" y="730" as="sourcePoint" />
+            <mxPoint x="479" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QnurLI0ZLrYXKgAfgdb3-13" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QnurLI0ZLrYXKgAfgdb3-5" target="QnurLI0ZLrYXKgAfgdb3-7">
+        <mxCell id="xxcRfOg85MAnlj5nTLF1-13" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xxcRfOg85MAnlj5nTLF1-8" target="xxcRfOg85MAnlj5nTLF1-11">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="550" y="390" as="sourcePoint" />
-            <mxPoint x="650" y="290" as="targetPoint" />
+            <mxPoint x="690" y="760" as="sourcePoint" />
+            <mxPoint x="479" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QnurLI0ZLrYXKgAfgdb3-14" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QnurLI0ZLrYXKgAfgdb3-5" target="QnurLI0ZLrYXKgAfgdb3-8">
+        <mxCell id="xxcRfOg85MAnlj5nTLF1-14" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xxcRfOg85MAnlj5nTLF1-8" target="xxcRfOg85MAnlj5nTLF1-9">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="550" y="390" as="sourcePoint" />
-            <mxPoint x="650" y="290" as="targetPoint" />
+            <mxPoint x="690" y="700" as="sourcePoint" />
+            <mxPoint x="479" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QnurLI0ZLrYXKgAfgdb3-15" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QnurLI0ZLrYXKgAfgdb3-5" target="QnurLI0ZLrYXKgAfgdb3-6">
+        <mxCell id="xxcRfOg85MAnlj5nTLF1-15" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xxcRfOg85MAnlj5nTLF1-4" target="xxcRfOg85MAnlj5nTLF1-8">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="550" y="390" as="sourcePoint" />
-            <mxPoint x="650" y="290" as="targetPoint" />
+            <mxPoint x="670" y="780" as="sourcePoint" />
+            <mxPoint x="770" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
