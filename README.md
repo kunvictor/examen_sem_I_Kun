@@ -10,4 +10,4 @@ Entitati:
 4.	Stoc, produse
 5.	Furnizori,date_furnizori
 
-![Alt text](diagrame.png)
+![Alt text](Diagrama_turism2.drawio.png)
