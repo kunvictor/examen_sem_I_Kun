@@ -1,13 +1,15 @@
 **ENUNT PROIECT** 
 
-Exista o retea de supermarketuri care doreste sa isi mapeze locatiile si ulterior sa se extinda in zone neacoperite conform planurilor de manegment. Odata cu maparea supermaketurilor existente se doreste si implementarea unui sistem de urmarire a vanzarilor, a stocurilor existente dar si a necesarului de aprovizionare si comunicare directa cu furnizorii.
+O firmă din domeniul turismului dorește să iși realizeze un sistem de gestionare a destinațiilor turistice necesar pentru a facilita ofertele turistice ale acesteia. Acest sistem trebuie să permită maparea destinațiilor existente și să ajute la dezvoltarea unor noi trasee turistice, plus valabilitatea infrastructuri hoteliere existente. De asemenea, se va implementa un sistem de urmărire a vizitatorilor, a traseelor turistice și a evenimentelor organizate în fiecare destinație.
 
+Entități:
+•	Turiști, Pașapoarte
+•	Vizite
+•	Trasee Turistice
+•	Destinație
+•	Resurse Naturale
+•	Hoteluri 
+•	Evenimente
 
-Entitati:
-1.	Tara, judet, UAT
-2.	Market,tip_market
-3.	Vanzari,client,date_client
-4.	Stoc, produse
-5.	Furnizori,date_furnizori
 
 ![Alt text](Diagrama_turism2.drawio.png)
